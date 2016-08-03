@@ -1,0 +1,5 @@
+# Foreground or notify example
+
+This is just some sample code for Android, demonstrating how to resolve some message from some external source to either some action on the current foreground activity, if one such exists, or to a notification.
+
+It goes with this presentation: https://docs.google.com/presentation/d/16sY8wQq63ew3Kxtgtrp4KI0U8_lpWsIXfimswO18VJg/edit?usp=sharing
